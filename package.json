@@ -1,0 +1,23 @@
+{
+  "name": "launchpad",
+  "version": "0.1.0",
+  "description": "Hacking the Launchpad web service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pseudocc/launchpad.js.git"
+  },
+  "keywords": [
+    "canonical",
+    "launchpad"
+  ],
+  "author": "Atlas Yu <atlas.yu@canonical.com>",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/pseudocc/launchpad.js/issues"
+  },
+  "homepage": "https://github.com/pseudocc/launchpad.js#readme"
+}
